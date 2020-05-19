@@ -1,1 +1,1 @@
-as
+Deixamos atributos e métodos privados para evitar alterções no código fonte, e proteger dados dos usuários.
