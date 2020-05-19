@@ -16,7 +16,7 @@ public class Atividades {
             System.out.print("Você programa em outra linguagem? ");
             linguagem = in.next();
             if(linguagem.equals("") || linguagem.equals("n") || linguagem.equals("não")) {
-                System.out.println("Voê programa apenas em " + control.retornarLinguagem());
+                System.out.println("Você programa apenas em " + control.retornarLinguagem());
             }
             else {
                 control.novaLinguagem(linguagem);
